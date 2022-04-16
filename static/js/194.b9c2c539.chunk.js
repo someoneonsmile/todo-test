@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktodo=self.webpackChunktodo||[]).push([[194],{2194:function(e,d,o){o.r(d),o.d(d,{todos:function(){return t}});var t=[{id:"1",title:"Todo 1",checked:!1},{id:"2",title:"Todo 2",checked:!0},{id:"3",title:"Todo 3",checked:!1},{id:"4",title:"Todo 4",checked:!1},{id:"5",title:"Todo 5",checked:!1},{id:"6",title:"Todo 6",checked:!1},{id:"7",title:"Todo 7",checked:!1}]}}]);
+//# sourceMappingURL=194.b9c2c539.chunk.js.map
